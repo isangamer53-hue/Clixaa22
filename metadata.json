@@ -1,0 +1,6 @@
+{
+  "name": "CLIXA — Roll-On Body Adhesive",
+  "description": "Full-featured real e-commerce storefront for CLIXA Roll-On Body Adhesive with COD guest checkout, bilingual Bengali/English support, dual-verification order tracking, and live admin order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
